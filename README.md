@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## To view app online
-Visit [Todo Application](https://github.com/facebook/create-react-app)
+Visit [Todo Application](https://main--friendly-phoenix-7e72c6.netlify.app)
 
 ## To run the application
 
