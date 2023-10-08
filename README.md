@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## To view app online
+Visit [Todo Application](https://github.com/facebook/create-react-app)
+
 ## To run the application
 
 1. Clone repo 
@@ -19,7 +22,7 @@ git@github.com:actimel33/react-todo-app.git
 
 3. Create file `.env.local` in the project root
 
-4. `yarn dev`
+4. Run command `yarn dev`
 
 5. Open `http://localhost:3000`.
 

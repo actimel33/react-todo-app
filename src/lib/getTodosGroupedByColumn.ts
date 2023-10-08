@@ -1,5 +1,5 @@
 import { initialBoardState } from "../store/BoardStore";
-import { IBoard, IColumn, ITodo, TTypedColumn } from "../types";
+import { IBoard, IColumn, TTypedColumn } from "../types";
 import { databases } from "./appwrite";
 
 export const getTodosGroupedByColumn = async () => {
